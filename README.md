@@ -8,6 +8,12 @@ Cheers :)
 
 [![enriquejpca's GitHub stats](https://github-readme-stats.vercel.app/api?username=enriquejpca)](https://github.com/enriquejpca/github-readme-stats)
 
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="enriquejpca's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enriquejpca" />
+
+</details>
 
 <!--
 **enriquejpca/enriquejpca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
