@@ -15,7 +15,7 @@ Cheers :)
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="enriquejpca's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enriquejpca" />
+<img align="right" alt="enriquejpca's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enriquejpca" />
 
 </details>
 
