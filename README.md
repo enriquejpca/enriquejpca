@@ -5,7 +5,10 @@
 
 Cheers :)
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
 [![enriquejpca's GitHub stats](https://github-readme-stats.vercel.app/api?username=enriquejpca)](https://github.com/enriquejpca/github-readme-stats)
+</details>
 
 <!--
 **enriquejpca/enriquejpca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
