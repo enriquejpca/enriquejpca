@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I´m Enrique 👋
+
+- 🔭 I’m currently working on my portfolio.
+- 👯 I’m looking to collaborate on an exciting new project!
+
+Cheers :)
 
 <!--
 **enriquejpca/enriquejpca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
