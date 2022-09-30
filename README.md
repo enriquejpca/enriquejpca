@@ -5,8 +5,12 @@
 
 Cheers :)
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
-[![enriquejpca's GitHub stats](https://github-readme-stats.vercel.app/api?username=enriquejpca)](https://github.com/enriquejpca/github-readme-stats)
+  <img align="left" alt="enriquejpca's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=enriquejpca&show_icons=true&hide_border=true" />
+
+</details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
